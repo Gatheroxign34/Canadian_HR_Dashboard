@@ -1,4 +1,11 @@
-![Canadian City Jobs Dashboard](https://github.com/Gatheroxign34/Canadian_HR_Dashboard/assets/94628744/757ae769-5650-47a2-ae7d-d1b6f3f29f2e)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <img width="898" alt="Canadian_HR_Dashboard_Image" src="https://github.com/Gatheroxign34/Canadian_HR_Dashboard/assets/94628744/757ae769-5650-47a2-ae7d-d1b6f3f29f2e.png">
+</head>
 <body>
     <h1> What kinds of professions are held by men and women in Canadian Cities? </h1>
         <p> This dashboard explores the population of men women in entry level, senior and executive roles in Canadian Cities such as Vancouver, Victoria, New Westminster, and Burnaby </p>
