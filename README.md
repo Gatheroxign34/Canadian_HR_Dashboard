@@ -14,6 +14,6 @@
         <p> Analysis: This dashboard allows HR professionals to see how many men versus women hold leadership roles; better understanding gender distribution in career fields helps HR professionals to make decisions on DEI initiatives. 
         <p> Recommendations: To understand the spread of gender distribution in Canadian city jobs, use the check boxes in the table above to look at individual Canadian cities in the interactive bar and pie charts below.
 
-<iframe src="https://humble-happiness-5pwqqj7x6x73r7p-8050.app.github.dev/" width="100%" height="600" frameborder="0"></iframe>
+
 </body>
 </html> 
